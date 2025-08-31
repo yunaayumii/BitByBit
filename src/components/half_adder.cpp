@@ -23,7 +23,7 @@ int main() {
 void halfAdder(bool A, bool B, bool &Sum, bool &Carry) {
     // truth table
     //
-    // A | B | Sum | Carrys
+    // A | B | Sum | Carry
     // 0   0    0     0
     // 0   1    1     0
     // 1   0    1     0
