@@ -32,7 +32,7 @@ void halfAdder(bool A, bool B, bool &Sum, bool &Carry) {
 
     // truth table
     //
-    // A | B | Sum | Carry
+    // A | B | Sum | Carrys
     // 0   0    0     0
     // 0   1    1     0
     // 1   0    1     0
