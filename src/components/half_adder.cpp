@@ -27,7 +27,7 @@ void halfAdder(bool A, bool B, bool &Sum, bool &Carry) {
     // 0   0    0     0
     // 0   1    1     0
     // 1   0    1     0
-    // 1   1    1     1
+    // 1   1    0     1
 
     Sum = A ^ B;
     Carry = A && B;
